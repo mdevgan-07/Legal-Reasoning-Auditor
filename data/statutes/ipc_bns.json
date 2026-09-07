@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "note": "Starter statutory knowledge base for the LRA RAG verifier. IPC (repealed 01-07-2024) mapped to Bharatiya Nyaya Sanhita 2023. Descriptions are condensed ingredient summaries for offence-alignment checking, not verbatim statutory text. Extend by adding entries.",
+    "ipc_repeal_date": "2024-07-01"
+  },
+  "ipc": {
+    "302": {"offence": "Punishment for murder", "bns": "103", "ingredients": "causing death with intention of causing death or bodily injury sufficient in ordinary course of nature to cause death; culpable homicide amounting to murder"},
+    "304": {"offence": "Culpable homicide not amounting to murder", "bns": "105", "ingredients": "causing death with knowledge or intention but without circumstances making it murder; act done without premeditation in sudden fight or grave provocation"},
+    "304A": {"offence": "Causing death by negligence", "bns": "106", "ingredients": "causing death by rash or negligent act not amounting to culpable homicide"},
+    "304B": {"offence": "Dowry death", "bns": "80", "ingredients": "death of woman by burns or bodily injury within seven years of marriage with cruelty or harassment for dowry"},
+    "307": {"offence": "Attempt to murder", "bns": "109", "ingredients": "act done with intention or knowledge that if death were caused it would be murder; attempt with such intention"},
+    "323": {"offence": "Voluntarily causing hurt", "bns": "115", "ingredients": "voluntarily causing bodily pain, disease or infirmity"},
+    "324": {"offence": "Voluntarily causing hurt by dangerous weapons", "bns": "118", "ingredients": "voluntarily causing hurt by instrument for shooting stabbing or cutting or any instrument likely to cause death"},
+    "326": {"offence": "Voluntarily causing grievous hurt by dangerous weapons", "bns": "118(2)", "ingredients": "grievous hurt by dangerous weapon or means"},
+    "34": {"offence": "Common intention", "bns": "3(5)", "ingredients": "criminal act done by several persons in furtherance of common intention; each liable as if done by him alone"},
+    "120B": {"offence": "Criminal conspiracy", "bns": "61(2)", "ingredients": "agreement between two or more persons to do illegal act or legal act by illegal means"},
+    "149": {"offence": "Unlawful assembly - common object", "bns": "190", "ingredients": "offence committed by member of unlawful assembly in prosecution of common object; every member liable"},
+    "376": {"offence": "Punishment for rape", "bns": "64", "ingredients": "sexual intercourse or sexual acts against will or without consent as defined; punishment for rape"},
+    "354": {"offence": "Assault or criminal force to woman with intent to outrage modesty", "bns": "74", "ingredients": "assault or criminal force to any woman intending to outrage or knowing it likely to outrage her modesty"},
+    "363": {"offence": "Kidnapping", "bns": "137(2)", "ingredients": "kidnapping from India or from lawful guardianship"},
+    "366": {"offence": "Kidnapping or abducting woman to compel marriage", "bns": "87", "ingredients": "kidnapping or abducting woman with intent to compel marriage or force or seduce to illicit intercourse"},
+    "379": {"offence": "Punishment for theft", "bns": "303(2)", "ingredients": "dishonestly taking movable property out of possession of any person without consent"},
+    "380": {"offence": "Theft in dwelling house", "bns": "305", "ingredients": "theft in building tent or vessel used as human dwelling or for custody of property"},
+    "392": {"offence": "Punishment for robbery", "bns": "309(4)", "ingredients": "theft or extortion with voluntarily causing or attempting death hurt or wrongful restraint or fear thereof"},
+    "395": {"offence": "Punishment for dacoity", "bns": "310(2)", "ingredients": "robbery committed conjointly by five or more persons"},
+    "406": {"offence": "Criminal breach of trust", "bns": "316(2)", "ingredients": "dishonest misappropriation or conversion of property entrusted or dominion over property"},
+    "411": {"offence": "Dishonestly receiving stolen property", "bns": "317(2)", "ingredients": "dishonestly receiving or retaining stolen property knowing or having reason to believe it stolen"},
+    "420": {"offence": "Cheating and dishonestly inducing delivery of property", "bns": "318(4)", "ingredients": "cheating and thereby dishonestly inducing delivery of property or alteration of valuable security"},
+    "498A": {"offence": "Cruelty by husband or relatives", "bns": "85", "ingredients": "husband or relative of husband subjecting woman to cruelty; harassment for dowry demand"},
+    "506": {"offence": "Criminal intimidation", "bns": "351(2)", "ingredients": "threatening injury to person reputation or property with intent to cause alarm or compel act or omission"},
+    "509": {"offence": "Word gesture or act intended to insult modesty of woman", "bns": "79", "ingredients": "word sound gesture or object intending to insult modesty of woman or intruding privacy"},
+    "201": {"offence": "Causing disappearance of evidence", "bns": "238", "ingredients": "causing disappearance of evidence of offence or giving false information to screen offender"},
+    "212": {"offence": "Harbouring offender", "bns": "249", "ingredients": "harbouring or concealing person known to be offender to screen from legal punishment"},
+    "452": {"offence": "House-trespass after preparation for hurt or assault", "bns": "333", "ingredients": "house trespass having made preparation for causing hurt assault or wrongful restraint"},
+    "468": {"offence": "Forgery for purpose of cheating", "bns": "336(3)", "ingredients": "forgery intending that forged document be used for cheating"},
+    "471": {"offence": "Using forged document as genuine", "bns": "340(2)", "ingredients": "fraudulently or dishonestly using as genuine any forged document or electronic record"}
+  }
+}

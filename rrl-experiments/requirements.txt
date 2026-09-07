@@ -1,0 +1,5 @@
+torch  # match your CUDA driver (cu121 for driver 12.5)
+transformers
+scikit-learn
+numpy<2
+peft  # tierC_lora only

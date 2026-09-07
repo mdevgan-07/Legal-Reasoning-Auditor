@@ -1,0 +1,32 @@
+{
+  "doc_id": "state_v_ramesh_2023_sc42",
+  "meta": {
+    "court": "Court of Sessions Judge, Patiala (synthetic sample)",
+    "offence": "Sections 302/34 IPC",
+    "note": "Hand-written synthetic judgment for pipeline testing; not a real case."
+  },
+  "sentences": [
+    {"sid": "s001", "text": "This judgment shall dispose of Sessions Case No. 42 of 2023 arising out of FIR No. 118 dated 14.06.2022 registered at Police Station Civil Lines.", "role": "None"},
+    {"sid": "s002", "text": "The accused Ramesh Kumar stands charged under Section 302 read with Section 34 of the Indian Penal Code for the murder of Suresh Chand.", "role": "Issue"},
+    {"sid": "s003", "text": "The question for determination is whether the prosecution has proved beyond reasonable doubt that the accused caused the death of the deceased in furtherance of common intention.", "role": "Issue"},
+    {"sid": "s004", "text": "The case of the prosecution is that on the night of 13.06.2022 the deceased Suresh Chand was assaulted near the grain market.", "role": "Facts"},
+    {"sid": "s005", "text": "PW-1 Karan Singh, the brother of the deceased, deposed that he saw the accused fleeing from the spot at about 11 PM.", "role": "Facts"},
+    {"sid": "s006", "text": "PW-3 Dr. Meena Sharma, who conducted the post-mortem, opined that death was caused by two incised wounds on the chest inflicted by a sharp-edged weapon.", "role": "Facts"},
+    {"sid": "s007", "text": "PW-5 the Investigating Officer stated that despite extensive search, no weapon was recovered from the accused or at his instance.", "role": "Facts"},
+    {"sid": "s008", "text": "The Test Identification Parade could not be conducted as the accused was already known to PW-1.", "role": "Facts"},
+    {"sid": "s009", "text": "PW-7 Mohan Lal, an independent witness, stated that the street light near the grain market was not functional on the night of occurrence.", "role": "Facts"},
+    {"sid": "s010", "text": "The accused in his statement under Section 313 CrPC denied the allegations and stated that he was at his village Dhablan on the night of the occurrence.", "role": "Facts"},
+    {"sid": "s011", "text": "DW-1 Gurmeet Singh supported the plea of alibi and stated that the accused attended a wedding at Dhablan on the night of 13.06.2022.", "role": "Facts"},
+    {"sid": "s012", "text": "Learned counsel for the accused argued that the identification by PW-1 in darkness is wholly unreliable and that the alibi stands unrebutted.", "role": "ArgumentsOfRespondent"},
+    {"sid": "s013", "text": "The learned Public Prosecutor argued that PW-1 knew the accused for years and could identify him even in poor light.", "role": "ArgumentsOfPetitioner"},
+    {"sid": "s014", "text": "I have heard learned counsel for the parties and perused the record carefully.", "role": "None"},
+    {"sid": "s015", "text": "The testimony of PW-1 is consistent and he had sufficient opportunity to observe the accused whom he knew previously.", "role": "Reasoning"},
+    {"sid": "s016", "text": "The medical evidence of PW-3 corroborates the ocular account regarding the nature of injuries.", "role": "Reasoning"},
+    {"sid": "s017", "text": "It is true that no weapon was recovered, but non-recovery of the weapon is not fatal to the prosecution case when the ocular evidence is trustworthy.", "role": "Reasoning"},
+    {"sid": "s018", "text": "The plea of alibi set up by the accused is not established, as DW-1 is a close relative and no independent record of the wedding was produced.", "role": "Reasoning"},
+    {"sid": "s019", "text": "The presence of the accused at the spot at 11 PM stands proved through the testimony of PW-1.", "role": "Reasoning"},
+    {"sid": "s020", "text": "In view of the above discussion, the prosecution has proved its case beyond reasonable doubt.", "role": "Decision"},
+    {"sid": "s021", "text": "The accused Ramesh Kumar is accordingly convicted under Section 302 read with Section 34 IPC and sentenced to imprisonment for life and a fine of Rs. 10,000.", "role": "Decision"}
+  ],
+  "injections": []
+}
