@@ -92,7 +92,7 @@ Evaluated on **712 Supreme Court judgments**.
 
 ## Honest Limitations
 
-LRA is deliberately scoped and transparent about what it can't do:
+LRA is deliberately scoped and transparent about what it can't do :
 
 - **Assistive, not autonomous.** A lawyer must verify every flag. It is a triage aid, not a decision-maker.
 - **Catches structural and textual errors** — contradictions, miscitations, out-of-record claims — **not** judgment calls like the weighing of evidence or the application of legal standards.
